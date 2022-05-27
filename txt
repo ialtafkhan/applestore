@@ -1,0 +1,34 @@
+// import Broweser Router and Bootstarap
+// create componanets
+// setup header componanets
+// Repalce a with navlink and href with to
+// now create login sign up and cart button
+// nwo create homepage
+
+
+
+//  <>
+// <div className="container">
+//     <div className="row">
+//         <div className="col-sm-6">
+//             <img src={product.img} alt="" />
+//         </div>
+//         <div className="col-sm-6"> {product.title} </div>
+//         <hr />
+//         <h2>{product.price}</h2>
+
+//     </div>
+// </div>
+// </> */}
+
+// // const [product, setproduct] = useState({})
+// //     const { id } = useParams()
+// //     console.log(id);
+// //     const getSingleProduct = async () => {
+// //         const { data } = await axios.get(`http://localhost:4800/products/${id}`)
+// //         console.log(data);
+// //         setproduct(data)
+// //     }
+// //     useEffect(() => {
+// //         getSingleProduct()
+// //     }, [])
